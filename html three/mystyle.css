@@ -1,0 +1,14 @@
+body{
+background-color:green;
+font-family:'arial';
+}
+p{
+color:blue;
+font-size:20px;
+text-align:center;
+}
+h1{
+color:red;
+background-color:yellow;
+text-align:center;
+}
