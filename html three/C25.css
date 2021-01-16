@@ -1,0 +1,10 @@
+body{
+font-size:22px;
+font-family:"arial";
+}
+.fox{
+text-transform:uppercase;
+}
+.dog{
+text-transform:capitalize;
+}
