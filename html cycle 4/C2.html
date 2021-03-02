@@ -1,0 +1,20 @@
+<html>
+<head>
+<title> print sum</title>
+<script>
+function printsum()
+{
+var n1,n2;
+n1=parseInt(document.getElementById("num1").value);
+n2=parseInt(document.getElementById("num2").value);
+document.getElementById("printvalue").innerHTML=n1+n2;
+}
+</script>
+</head>
+<body>
+<input type="text" id="num1"><br><br>
+<input type="text" id="num2"><br><br>
+<button type="button" onclick="printsum()">print</button>
+<p id="printvalue"></p>
+</body>
+</html>
